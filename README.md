@@ -19,3 +19,4 @@ AI Coding时代，一点点代码调试比不上AI的新手拈来，技术与产
 
 <img width="1023" height="519" alt="image" src="https://github.com/user-attachments/assets/0958d578-cb79-4332-9f9f-6b10bf2a8d2c" />
 
+[Go GreasyFork](https://greasyfork.org/en/scripts/605639)
